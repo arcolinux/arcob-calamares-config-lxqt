@@ -1,2 +1,2 @@
-# ArcoLinuxB-Openbox Calamares configuration
+# ArcoLinuxB-LXQt Calamares configuration
 
